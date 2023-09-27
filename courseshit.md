@@ -135,6 +135,7 @@ If bit0 is not set in a course, then opening the Coursebot will show an error in
 #### Theme
 
 | Value | Description   |
+|-------|---------------|
 | 0     | Ground        |
 | 1     | Underground   |
 | 2     | Castle        |
